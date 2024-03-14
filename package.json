@@ -2,10 +2,10 @@
   "devDependencies": {
     "@types/node": "^20.11.19"
   },
-  "name": "personelmessage",
+  "name": "personelmessage2",
   "description": "\"# _1_personelmessage\"",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "app1.js",
   "dependencies": {
     "undici-types": "^5.26.5"
   },
